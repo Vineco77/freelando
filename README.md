@@ -12,7 +12,7 @@ Nesse momento, é um MVP que tá só começando e ainda tem muitas funcionalidad
 #### Link para o Site 🎯
 
 <div>
-    <a href="https://codeconnect-page.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="https://freelando-tau.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 #### ⬇️Pode me chamar no⬇️
